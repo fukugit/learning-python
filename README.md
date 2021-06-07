@@ -12,6 +12,24 @@ pet = input("wha is your pet name?")
 # Even if values are type of number, the variavle type must be String.  
 print(city + pet)
 ```
+<br>
+
+### 型
+```python
+# int
+print(100 + 200)
+
+# 1_000_000 is same as 1,000,000
+print(1_000_000 + 1_000_000)
+
+#Float
+print(3.14)
+
+#Boolean
+print(True)
+print(False)
+```
+<br>
 
 ### 型変換
 ```python
@@ -20,6 +38,7 @@ bill = float(input("What was the total bill? "))
 tip = int(input("How much tip would you like to give? "))
 print(bill + tip)
 ```
+<br>
 
 ### 小数点の丸め方
 ```python
@@ -35,6 +54,7 @@ print(round(8/3, 0))
 ## The result must be 2
 print(8 // 3)
 ```
+<br>
 
 ### print文に数値を含める方法
 ```python
@@ -44,15 +64,19 @@ height = 1.8
 isWinning = True
 print(f"your score is {score}, your height is {height}, your winning is {isWinning}.")
 ```
+<br>
 
 ### 
 ```python
 ```
+<br>
 
 ### 
 ```python
 ```
+<br>
 
 ### 
 ```python
 ```
+<br>

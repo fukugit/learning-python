@@ -66,8 +66,14 @@ print(f"your score is {score}, your height is {height}, your winning is {isWinni
 ```
 <br>
 
-### 
+### if文
 ```python
+if height >= 120 and height < 200:
+  print("you can ride the rollercoaster!")
+elif height >= 200:
+  print("Sorry, you are too tall to ride.")
+else:
+  print("Sorry, you have to grow taller before you can ride")
 ```
 <br>
 
